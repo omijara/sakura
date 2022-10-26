@@ -7,10 +7,10 @@ class Model
 {
 	public function __construct()
 	{
-		$hostname = "sql112.epizy.com";
-		$username = "epiz_32786088";
-		$password = "3rMQqS3Mlvs1M";
-		$database = "epiz_32786088_sakura";
+		$hostname = "Your server name";
+		$username = "username";
+		$password = "password";
+		$database = "sakura_inv";
 
 	$this->link = mysqli_connect($hostname,$username,$password,$database);
 
