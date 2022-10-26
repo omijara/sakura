@@ -15,5 +15,6 @@ Now upload sql file in your database and create a database with the name "sakura
 
 now visit the link to see the application dashboard.
 
-domain.com
-domain.com/store_login.php
+admin login = domain.com
+
+Store login = domain.com/store_login.php
